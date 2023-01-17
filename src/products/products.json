@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone Sung Planet X34 128gb 8g - Preto Tela 6.1",
+      "price": 219.32,
+      "stars": 4,
+      "image": "product_1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Smartwatch Blazfit Moda GTR 2 Large - Light Green",
+      "price": 182.18,
+      "stars": 3,
+      "image": "product_2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Cabo Conversor GVB Com Saída de Áudio - Preto",
+      "price": 22.9,
+      "stars": 4,
+      "image": "product_3.webp"
+    },
+    {
+      "id": 4,
+      "name": "Videogame Ultra Naotendo Mini - Cinza 8Tb",
+      "price": 89.99,
+      "stars": 5,
+      "image": "product_4.webp"
+    }
+  ]
+}
