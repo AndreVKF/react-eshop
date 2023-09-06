@@ -1,9 +1,8 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import "./App.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 
-import Main from "./pages/Main";
-import FinishPurchase from "./pages/FinishPurchase";
-import LoginPage from "./pages/LoginPage";
+import Main from "./pages/Main"
+import FinishPurchase from "./pages/FinishPurchase"
+import LoginPage from "./pages/LoginPage"
 
 function App() {
   return (
@@ -16,7 +15,7 @@ function App() {
         </Routes>
       </Router>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
