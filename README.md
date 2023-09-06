@@ -4,7 +4,7 @@ Frontend e-commerce created with React.
 
 ## Access Link
 
-https://react-calculator-bba1.onrender.com
+https://eshop-lxdi.onrender.com
 
 ## Functionalities
 
